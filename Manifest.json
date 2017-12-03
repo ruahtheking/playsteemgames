@@ -1,5 +1,13 @@
 {
-  "manifest_version": 2,
-  "name": "Steem-Cannon",
-  "version": "0.1"
+  "manifest_version": 0.1,
+  "name": "PlaySteemGames",
+  "description": "Browser Extension for PlaySteemGames",
+  "version": "0.1",
+  "icons": {
+    "16": "assets/images/icon_32x32.png",
+    "32": "assets/images/icon_48x48.png",
+    "48": "assets/images/icon_48x48.png",
+    "64": "assets/images/icon_64x64.png",
+    "128": "assets/images/icon_128x128.png"
+  },
 }
